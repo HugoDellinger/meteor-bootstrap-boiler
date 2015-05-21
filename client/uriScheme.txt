@@ -1,0 +1,7 @@
+Client
+  Compatibility // Libs needing a dom access
+Lib // Loaded before anything else
+  Collections
+Public //accessible resources
+Server
+  Publications
